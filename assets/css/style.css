@@ -1,0 +1,17 @@
+body{
+	background-image: url(https://sg.fiverrcdn.com/photos/15565584/original/64bf5b795848acb19a7c9e2c4da78c921a5ff48f.jpg?1441702484);
+	background-size: 1200px 700px;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+.container{
+	width: 900px;
+}
+.text-muted{
+	color: white;
+}
+
+button{
+	margin: 20px;
+}
